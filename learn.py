@@ -2,8 +2,8 @@
 csak kellene az a komment na
 '''
 
-kor = 40
-nem = "no"
+kor = 43
+nem = "ferfi"
 
 if nem != "ferfi":
     print("lanykent nem kell aggodni")
