@@ -2,7 +2,7 @@
 csak kellene az a komment na
 '''
 
-kor = 45
+kor = 40
 nem = "no"
 
 if nem != "ferfi":
